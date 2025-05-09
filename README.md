@@ -1,12 +1,21 @@
 <h1 align="center">
   <br>
-  <a href="https://ryujinx.org/"><img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx/master/distribution/misc/Logo.svg" alt="Ryujinx" width="150"></a>
+  <a href="https://web.archive.org/web/20250000000000*/https://ryujinx.org"><img src="https://raw.githubusercontent.com/DiamantTh/ryujinx-mirror-1746826703/master/distribution/misc/Logo.svg" alt="Ryujinx" width="150"></a>
   <br>
   <b>Ryujinx</b>
   <br>
   <sub><sup><b>(REE-YOU-JINX)</b></sup></sub>
   <br>
 </h1>
+
+<p align="center">
+This mirror/re-upload comes from the original source at that time https://github.com/Ryujinx/Ryujinx whose status is Mar 2, 2024(https://github.com/DiamantTh/ryujinx-mirror-1746826703/commit/bc4d99a0786dbcbfde62d3bdeb98ed3d12c94852)
+
+This repo is only online for archival and historical purposes and therefore not a contact point for bugs, instructions and more.
+Therefore no links to Wiki and Co. are available, please search for them yourself!
+
+<br />
+</p>
 
 <p align="center">
   Ryujinx is an open-source Nintendo Switch emulator, created by gdkchan, written in C#.
@@ -16,23 +25,6 @@
   <br />
 </p>
 
-<p align="center">
-    <a href="https://github.com/Ryujinx/Ryujinx/actions/workflows/release.yml">
-        <img src="https://github.com/Ryujinx/Ryujinx/actions/workflows/release.yml/badge.svg"
-            alt="">
-    </a>
-    <a href="https://crwd.in/ryujinx">
-        <img src="https://badges.crowdin.net/ryujinx/localized.svg"
-            alt="">
-    </a>
-    <a href="https://discord.com/invite/VkQYXAZ">
-        <img src="https://img.shields.io/discord/410208534861447168?color=5865F2&label=Ryujinx&logo=discord&logoColor=white"
-            alt="Discord">
-    </a>
-    <br>
-    <br>
-    <img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx-Website/master/public/assets/images/shell.png">
-</p>
 
 ## Compatibility
 
