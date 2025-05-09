@@ -9,10 +9,10 @@
 </h1>
 
 <p align="center">
-This mirror/re-upload comes from the original source at that time https://github.com/Ryujinx/Ryujinx whose status is Mar 2, 2024(https://github.com/DiamantTh/ryujinx-mirror-1746826703/commit/bc4d99a0786dbcbfde62d3bdeb98ed3d12c94852)
+<b>This mirror/re-upload comes from the original source at that time https://github.com/Ryujinx/Ryujinx whose status is Mar 2, 2024(https://github.com/DiamantTh/ryujinx-mirror-1746826703/commit/bc4d99a0786dbcbfde62d3bdeb98ed3d12c94852)</b>
 
-This repo is only online for archival and historical purposes and therefore not a contact point for bugs, instructions and more.
-Therefore no links to Wiki and Co. are available, please search for them yourself!
+<b>This repo is only online for archival and historical purposes and therefore not a contact point for bugs, instructions and more.</b>
+<b>Therefore no links to Wiki and Co. are available, please search for them yourself!
 
 <br />
 </p>
